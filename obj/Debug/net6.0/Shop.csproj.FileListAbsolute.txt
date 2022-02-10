@@ -1,0 +1,15 @@
+/home/giorgi/Desktop/Coding/C#/ItemShop/bin/Debug/net6.0/Shop
+/home/giorgi/Desktop/Coding/C#/ItemShop/bin/Debug/net6.0/Shop.deps.json
+/home/giorgi/Desktop/Coding/C#/ItemShop/bin/Debug/net6.0/Shop.runtimeconfig.json
+/home/giorgi/Desktop/Coding/C#/ItemShop/bin/Debug/net6.0/Shop.dll
+/home/giorgi/Desktop/Coding/C#/ItemShop/bin/Debug/net6.0/ref/Shop.dll
+/home/giorgi/Desktop/Coding/C#/ItemShop/bin/Debug/net6.0/Shop.pdb
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.csproj.AssemblyReference.cache
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.AssemblyInfoInputs.cache
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.AssemblyInfo.cs
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.csproj.CoreCompileInputs.cache
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.dll
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/ref/Shop.dll
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.pdb
+/home/giorgi/Desktop/Coding/C#/ItemShop/obj/Debug/net6.0/Shop.genruntimeconfig.cache
